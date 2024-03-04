@@ -15,7 +15,7 @@ function App() {
       <div className='    bg-gray-200
 '>
 
-        <div className='flex flex-col sm:flex-row justify-between items-center bg-black text-white h-12 m-2'>
+        <div className='flex flex-col sm:flex-row justify-between items-center bg-black text-white px-6 h-12 m-2'>
           <div className='sm:order-2'>
             <p className='py-2 text-2xl font-semibold'>Shopping Cart</p>
           </div>
